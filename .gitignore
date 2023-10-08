@@ -1,0 +1,51 @@
+# Anurag Purohit11:29 AM
+# Django #
+##########
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# Backup files #
+################
+*.bak
+
+# If you are using PyCharm #
+#############################
+.idea/
+*.iml
+
+# Mac OS #
+##########
+.DS_Store
+
+# Python #
+##########
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller #
+#  Usually these files are written b
+rqd-aohf-sak
